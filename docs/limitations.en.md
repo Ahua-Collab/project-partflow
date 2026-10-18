@@ -1,6 +1,6 @@
 # Known limitations and validation boundaries
 
-[����](limitations.md) �� [Stepwise](../README.en.md)
+[中文](limitations.md) · [Stepwise](../README.en.md)
 
 ## A workflow, not an execution platform
 

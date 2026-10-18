@@ -1,6 +1,6 @@
 # Quick start: finish one small, checkable piece
 
-[����](quickstart.md) �� [Stepwise](../README.en.md)
+[中文](quickstart.md) · [Stepwise](../README.en.md)
 
 ## 1. Check the installation
 

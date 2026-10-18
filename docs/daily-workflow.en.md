@@ -1,8 +1,8 @@
 # Daily workflow
 
-[����](daily-workflow.md) �� [Stepwise](../README.en.md)
+[中文](daily-workflow.md) · [Stepwise](../README.en.md)
 
-��Daily�� means everyday use, not one Part per day. Users mainly state outcomes, forward suitable instructions, and bring back deliveries. The coordinator maintains machine fields from evidence.
+“Daily” means everyday use, not one Part per day. Users mainly state outcomes, forward suitable instructions, and bring back deliveries. The coordinator maintains machine fields from evidence.
 
 ## Find the current action
 
@@ -24,7 +24,7 @@ The coordinator assigns a single file owner and archives a prompt with goals, ma
 
 When a dependency crosses ownership, submit the smallest change request and continue authorized work that does not depend on it. Deliver a complete report. The coordinator checks actual differences and full affected code paths against the original requirement, not only green tests.
 
-Keep issue IDs, original commits, and failures when correcting work. Append revisions; new defects get new IDs. ��Changed�� is not the same as ��closed.�� After technical acceptance, integrate only under actual authorization, avoid replaying equivalent commits, and verify the resulting mainline. One role's PASS does not close the whole Part.
+Keep issue IDs, original commits, and failures when correcting work. Append revisions; new defects get new IDs. “Changed” is not the same as “closed.” After technical acceptance, integrate only under actual authorization, avoid replaying equivalent commits, and verify the resulting mainline. One role's PASS does not close the whole Part.
 
 ## Read less repetition without losing evidence
 

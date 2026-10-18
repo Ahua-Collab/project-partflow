@@ -1,8 +1,8 @@
 # Install and use Stepwise
 
-[���İ�װ˵��](INSTALL.md) �� [English overview](README.en.md)
+[中文安装说明](INSTALL.md) · [English overview](README.en.md)
 
-The display name is **���ݹ��� �� Stepwise**. The skill name and installation directory remain **`project-partflow`**. Always invoke **`$project-partflow`**. The original Chinese skill rules, templates, and scripts are unchanged.
+The display name is **阶梯工坊 · Stepwise**. The skill name and installation directory remain **`project-partflow`**. Always invoke **`$project-partflow`**. The original Chinese skill rules, templates, and scripts are unchanged.
 
 ## Install the complete directory
 
@@ -17,7 +17,7 @@ This is a standalone skill. It does not require another personal skill or the pr
 ## Start a project
 
 ```text
-Use $project-partflow. I want a tool that does �� for �� on �� .
+Use $project-partflow. I want a tool that does … for … on … .
 Help me clarify the important choices, write an acceptance-based project plan,
 assign module ownership, and progress through reviewed Parts.
 ```

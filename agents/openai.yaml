@@ -1,4 +1,4 @@
 interface:
-  display_name: "�ֶ���Ŀ�ܿ�"
-  short_description: "���������Ŀ�鿪ʼ����ģ��ֹ����� Part ��ʾ��������Ž��ƽ���������"
-  default_prompt: "��ʹ�� $project-partflow ���Ұ������뷨������Ŀ�飬��ģ��ֽ�ɫ���� Part �ɹ���ˣ����Ӵ��̼�¼�����ƽ���������"
+  display_name: "分段项目总控"
+  short_description: "从需求和项目书开始，按模块分工，以 Part 提示词与审核门禁推进软件交付"
+  default_prompt: "请使用 $project-partflow 帮我把软件想法做成项目书，按模块分角色、按 Part 派工审核，并从磁盘记录持续推进到交付。"

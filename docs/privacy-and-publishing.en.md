@@ -1,6 +1,6 @@
 # Privacy and publishing
 
-[����](privacy-and-publishing.md) �� [Stepwise](../README.en.md)
+[中文](privacy-and-publishing.md) · [Stepwise](../README.en.md)
 
 ## Include the skill, not its users' projects
 

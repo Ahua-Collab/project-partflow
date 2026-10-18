@@ -1,6 +1,6 @@
 # Troubleshooting
 
-[����](troubleshooting.md) �� [Stepwise](../README.en.md)
+[中文](troubleshooting.md) · [Stepwise](../README.en.md)
 
 ## Every round rereads too much history
 
@@ -8,7 +8,7 @@ Check whether the project's AGENTS is stricter than the skill. Current rules rea
 
 Reuse still requires full originals in the current context, the same source, and verified unchanged hashes. New sessions, compression, and handoffs trigger mandatory reading; milestones and final acceptance reread governance fully. The skill has no token meter, persistent reading permit, or measured savings percentage.
 
-## ��Done�� does not lead to the next step
+## “Done” does not lead to the next step
 
 State the task ID, formal prompt, actual baseline/final commit, delivery path, and exact stage. The coordinator separately checks dispatch, execution, delivery, technical acceptance, integration, and mainline PASS. A file, named window, or exited process does not alone prove business completion.
 

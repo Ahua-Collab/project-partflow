@@ -1,6 +1,6 @@
 # Validation of this distribution
 
-[����](validation.md) �� [Stepwise](../README.en.md)
+[中文](validation.md) · [Stepwise](../README.en.md)
 
 Date: 2026-10-18. The object checked is the skill distribution, not any business product built with it.
 

@@ -1,6 +1,6 @@
-# ���ݹ��� �� Stepwise
+# 阶梯工坊 · Stepwise
 
-English �� [����](README.md)
+English · [中文](README.md)
 
 **A Codex workflow for staged, collaborative development, built for people without a professional software background and for independent developers. You can adapt it to other AI tools as needed.** Start with an idea, turn it into manageable pieces, and keep records that support handoffs, recovery, and acceptance.
 
@@ -27,12 +27,12 @@ These are workflow conveniences, not measured promises about speed, token saving
 A **Part** is a unit of work with an acceptance gate, not a day. A Part may span several days, and corrections stay in the same Part. The workflow defines goals, interfaces, ownership, and evidence while leaving implementation choices to the person or agent doing the task.
 
 ```text
-Idea �� project plan and ownership �� current Part tasks �� implementation and delivery
-                                                            ��
-Next Part �� whole-Part PASS �� mainline verification �� independent review
-                                                            �� if incomplete
+Idea → project plan and ownership → current Part tasks → implementation and delivery
+                                                            ↓
+Next Part ← whole-Part PASS ← mainline verification ← independent review
+                                                            ↓ if incomplete
                                                     same-Part correction
-Last Part �� READY_FOR_ACCEPTANCE �� product acceptance and user confirmation �� COMPLETE
+Last Part → READY_FOR_ACCEPTANCE → product acceptance and user confirmation → COMPLETE
 ```
 
 This is useful for projects with several modules, explicit responsibilities, and work that needs to resume later. A small project may use one coordinator and one implementing role. An ordinary single-file edit usually does not need the full process.

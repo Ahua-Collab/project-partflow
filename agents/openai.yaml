@@ -1,0 +1,4 @@
+interface:
+  display_name: "�ֶ���Ŀ�ܿ�"
+  short_description: "���������Ŀ�鿪ʼ����ģ��ֹ����� Part ��ʾ��������Ž��ƽ���������"
+  default_prompt: "��ʹ�� $project-partflow ���Ұ������뷨������Ŀ�飬��ģ��ֽ�ɫ���� Part �ɹ���ˣ����Ӵ��̼�¼�����ƽ���������"

@@ -1,0 +1,20 @@
+# Keep private working material and runtime artifacts out of this skill repository.
+_audit/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+*.log
+node_modules/
+target/
+__pycache__/
+.DS_Store
+Thumbs.db

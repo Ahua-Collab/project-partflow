@@ -1,0 +1,12 @@
+{
+  "schema_version": 2,
+  "plan": "PROJECT_PLAN.md",
+  "rules": "AGENTS.md",
+  "privacy": "docs/privacy-boundaries.md",
+  "progress": "progress",
+  "roles": ".engineering/roles.md",
+  "primary_branch": "main",
+  "owners": [],
+  "tasks": [],
+  "milestones": []
+}
